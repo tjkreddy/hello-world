@@ -1,7 +1,7 @@
 /**
  * @file student.h
  * @brief Header file containing the Student class definition
- * @author T Jugal Kishore
+ * @author tjkreddy
  * @date January 29, 2025
  * 
  * This file contains the definition of the Student class which represents
@@ -22,8 +22,8 @@
  * can have based on their CGPA.
  */
 enum class AcademicStanding {
-    EXCELLENT,    /**< CGPA >= 9.0 */
-    GOOD,        /**< CGPA >= 7.0 and < 9.0 */
+    EXCELLENT,    /**< CGPA >= 8.0 */
+    GOOD,        /**< CGPA >= 7.0 and < 8.0 */
     SATISFACTORY,/**< CGPA >= 5.0 and < 7.0 */
     PROBATION    /**< CGPA < 5.0 */
 };

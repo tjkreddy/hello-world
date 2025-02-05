@@ -1,8 +1,8 @@
 /**
  * @file course_registration.cpp
  * @brief Implementation of the course registration system
- * @author T Jugal Kishore
- * @date January 29, 2025
+ * @author tjkreddy
+ * @date Feb 5, 2025
  * 
  * @details This file implements a course registration system that manages:
  * - Course enrollment and withdrawal
